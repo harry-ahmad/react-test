@@ -1,0 +1,64 @@
+body{
+    background-color: #0c0d14;
+    color: #bec3cd;
+}
+.card{
+    border: 1px solid #383a42;
+}
+.card-header{
+    background-color: #111a20;
+}
+.card-title{
+    color:#478aee;
+}
+.card-body{
+    background-color: #0c0d14;
+    border-bottom: 1px solid #383a42;
+}
+.btn-primary-outline{
+    border: 1px solid #383a42;
+    color: #bec3cd;
+}
+.btn{
+    padding: 3px 10px !important;
+    margin: 0px 5px;
+}
+.pink-color{
+    color:#faa5b3;
+}
+.orange{
+    color:#d48b05;
+}
+.gray{
+    color: #bec3cd;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+    margin-right: 15px;
+}
+a:hover{
+    color: inherit;
+}
+img{
+    border-radius: 50px;
+}
+.Dropdown-root{
+    display: inline-block;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.Dropdown-menu{
+    position: absolute;
+    background: #111a20;
+    padding: 8px 25px 8px 10px;
+    text-align: left;
+    margin-left: -60px;
+    border:1px solid #383a42
+}
+.Dropdown-option{
+    cursor: pointer;
+}
+span{
+    /* margin-left: 20px; */
+}
